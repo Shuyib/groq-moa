@@ -100,6 +100,10 @@ This project implements the Mixture-of-Agents architecture proposed in the follo
   journal={arXiv preprint arXiv:2406.04692},
   year={2024}
 }
+
+## Task
+- Can we use the MOA to improve an instruction dataset for medicinal plants of East Africa?
+- Can we verify this information with chemists and botanists
 ```
 
 For more information about the Mixture-of-Agents concept, please refer to the [original research paper](https://arxiv.org/abs/2406.04692) and the [Together AI blog post](https://www.together.ai/blog/together-moa).
