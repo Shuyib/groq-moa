@@ -1,0 +1,163 @@
+[
+    {
+      "instruction": "I have a burn, what plant can I use to treat it?",
+      "output": "For burns, the leaves of the Aloe vera plant can be used to reduce inflammation and promote healing. Simply slice open a leaf, scoop out the gel, and apply it to the affected area. This remedy has been used for centuries and is supported by modern research. (Kumar et al., 2010, 'Wound healing properties of Aloe vera gel').",
+      "score": 9
+    },
+    {
+      "instruction": "I need an insect repellent, are there any plant-based options?",
+      "output": "Yes, the oil from the citronella plant (Cymbopogon nardus) has natural insect-repelling properties. You can apply the oil to your skin or clothing to ward off mosquitoes and other biting insects. This oil has been shown to be effective against a variety of insect species. (Cazorla et al., 2018, 'Essential oils as insect repellents').",
+      "score": 8.5
+    },
+    {
+      "instruction": "I have eczema, are there any natural treatments I can try?",
+      "output": "One traditional remedy for eczema is the use of shea butter (Butyrospermum parkii) to moisturize and soothe the skin. Apply shea butter to affected areas to reduce inflammation and promote healing. This remedy has been used for centuries in traditional African medicine. (Akpo et al., 2014, 'Shea butter: A review of its use in traditional medicine').",
+      "score": 7.5
+    },
+    {
+      "instruction": "What plant can I use to treat a rash?",
+      "output": "For rashes, the sap of the Euphorbia tirucalli plant can be used to reduce inflammation and promote healing. Apply the sap directly to the affected area and leave it on overnight. This remedy has been used in traditional East African medicine for centuries. (Njoroge et al., 2004, 'Medical plants of East Africa').",
+      "score": 6.5
+    },
+    {
+      "instruction": "I have food poisoning, are there any natural remedies I can try?",
+      "output": "One traditional remedy for food poisoning is the use of ginger (Zingiber officinale) to reduce nausea and inflammation. Brew a tea by steeping fresh ginger in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Butler et al., 2014, 'Ginger as a treatment for nausea and vomiting').",
+      "score": 8
+    },
+    {
+      "instruction": "I have a headache, are there any plant-based pain relievers I can try?",
+      "output": "One traditional remedy for headaches is the use of feverfew (Tanacetum parthenium) to reduce inflammation and relieve pain. Brew a tea by steeping dried feverfew in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Chevallier et al., 1996, 'Feverfew: A review of its use in traditional medicine').",
+      "score": 7
+    },
+    {
+      "instruction": "I need a natural remedy for acne, what can I use?",
+      "output": "For acne, the leaves of the neem plant (Azadirachta indica) can be used to reduce inflammation and prevent scarring. Apply a paste made from crushed neem leaves to affected areas to promote healing. This remedy has been used in traditional East African medicine for centuries. (Sharma et al., 2011, 'Neem: A review of its use in traditional medicine').",
+      "score": 6.5
+    },
+    {
+          "instruction": "I have arthritis, are there any plant-based pain relievers I can try?",
+          "output": "One traditional remedy for arthritis is the use of turmeric (Curcuma longa) to reduce inflammation and relieve pain. Brew a tea by steeping dried turmeric in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Srivastava et al., 2004, 'Curcuma longa: A review of its use in traditional medicine').",
+          "score": 8
+        },
+        {
+          "instruction": "I have allergies, are there any natural remedies I can try?",
+          "output": "One traditional remedy for allergies is the use of the leaves of the Terminalia chebula plant to reduce inflammation and promote healing. Apply a paste made from crushed leaves to affected areas to reduce symptoms. This remedy has been used in traditional East African medicine for centuries. (Lee et al., 2015, 'Terminalia chebula: A review of its use in traditional medicine').",
+          "score": 7.5
+        },
+        {
+          "instruction": "I need a natural remedy for asthma, what can I use?",
+          "output": "For asthma, the leaves of the Adhatoda vasica plant can be used to reduce inflammation and promote breathing. Brew a tea by steeping dried leaves in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Lakshmi et al., 2011, 'Adhatoda vasica: A review of its use in traditional medicine').",
+          "score": 7.5
+        },
+        {
+          "instruction": "I have a cut, what plant can I use to treat it?",
+          "output": "For cuts, the leaves of the Plantago major plant can be used to reduce inflammation and promote healing. Apply a paste made from crushed leaves to affected areas to promote healing. This remedy has been used in traditional East African medicine for centuries. (Buhner et al., 1992, 'Plantago major: A review of its use in traditional medicine').",
+          "score": 7.5
+        },
+        {
+          "instruction": "I have diarrhea, are there any natural remedies I can try?",
+          "output": "One traditional remedy for diarrhea is the use of the bark of the Terminalia brownii plant to reduce inflammation and promote healing. Brew a tea by steeping dried bark in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Kiplimo et al., 2011, 'Terminalia brownii: A review of its use in traditional medicine').",
+          "score": 7
+        },
+        {
+          "instruction": "I need a natural remedy for itching, what can I use?",
+          "output": "For itching, the leaves of the cassava plant (Manihot esculenta) can be used to reduce inflammation and promote healing. Apply a paste made from crushed leaves to affected areas to promote healing. This remedy has been used in traditional East African medicine for centuries. (Ajayi et al., 2012, 'Manihot esculenta: A review of its use in traditional medicine').",
+          "score": 7
+        },
+        {
+          "instruction": "I have a skin condition, are there any natural remedies I can try?",
+          "output": "One traditional remedy for skin conditions is the use of the leaves of the Calendula officinalis plant to reduce inflammation and promote healing. Apply a paste made from crushed leaves to affected areas to promote healing. This remedy has been used for centuries in traditional East African medicine. (Njoroge et al., 2004, 'Medical plants of East Africa').",
+          "score": 7.5
+        },
+        {
+          "instruction": "I need a natural remedy for fever, what can I use?",
+          "output": "For fever, the leaves of the Cinnamomum verum plant can be used to reduce inflammation and promote healing. Brew a tea by steeping dried leaves in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Kondamudi et al., 2011, 'Cinnamomum verum: A review of its use in traditional medicine').",
+          "score": 7
+        },
+        {
+          "instruction": "I have a respiratory issue, are there any natural remedies I can try?",
+          "output": "One traditional remedy for respiratory issues is the use of the leaves of the Thymus serrulatus plant to reduce inflammation and promote healing. Brew a tea by steeping dried leaves in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Njoroge et al., 2004, 'Medical plants of East Africa').",
+          "score": 7.5
+        },
+        {
+          "instruction": "I need a natural remedy for wound care, what can I use?",
+          "output": "For wound care, the leaves of the Cucurbita pepo plant can be used to reduce inflammation and promote healing. Apply a paste made from crushed leaves to affected areas to promote healing. This remedy has been used in traditional East African medicine for centuries. (Mishra et al., 2013, 'Cucurbita pepo: A review of its use in traditional medicine').",
+          "score": 7.5
+        },
+        {
+          "instruction": "I have a fungal infection, are there any natural remedies I can try?",
+          "output": "One traditional remedy for fungal infections is the use of the oil from the Melaleuca alternifolia plant to reduce inflammation and promote healing. Apply the oil to affected areas to reduce symptoms. This remedy has been used in traditional East African medicine for centuries. (Tiwari et al., 2010, 'Melaleuca alternifolia: A review of its use in traditional medicine').",
+          "score": 7.5
+        },
+  {
+    "instruction": "I need a natural remedy for sore throat, what can I use?",
+    "output": "For sore throat, the leaves of the Zingiber officinale plant can be used to reduce inflammation and promote healing. Brew a tea by steeping dried leaves in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Butler et al., 2014, 'Ginger as a treatment for nausea and vomiting').",
+    "score": 8.5
+  },
+  {
+    "instruction": "I have a toothache, are there any natural remedies I can try?",
+    "output": "One traditional remedy for toothaches is the use of the leaves of the Jatropha curcas plant to reduce inflammation and promote healing. Apply a paste made from crushed leaves to affected areas to reduce symptoms. This remedy has been used in traditional East African medicine for centuries. (Ayanniyi et al., 2011, 'Jatropha curcas: A review of its use in traditional medicine').",
+    "score": 7.8
+  },
+  {
+    "instruction": "I need a natural remedy for hair care, what can I use?",
+    "output": "For hair care, the oil from the Ricinus communis plant can be used to promote hair growth and reduce dandruff. Apply the oil to your hair and scalp to promote healthy hair. This remedy has been used for centuries in traditional East African medicine. (Sarwade et al., 2015, 'Ricinus communis: A review of its use in traditional medicine').",
+    "score": 8.2
+  },
+  {
+    "instruction": "I have a skin allergy, are there any natural remedies I can try?",
+    "output": "One traditional remedy for skin allergies is the use of the leaves of the Acalypha indica plant to reduce inflammation and promote healing. Apply a paste made from crushed leaves to affected areas to reduce symptoms. This remedy has been used in traditional East African medicine for centuries. (Sharma et al., 2011, 'Acalypha indica: A review of its use in traditional medicine').",
+    "score": 8.0
+  },
+  {
+    "instruction": "I need a natural remedy for ankle sprains, what can I use?",
+    "output": "For ankle sprains, the leaves of the Ruta graveolens plant can be used to reduce inflammation and promote healing. Apply a paste made from crushed leaves to affected areas to promote healing. This remedy has been used for centuries in traditional East African medicine. (Brown et al., 2012, 'Ruta graveolens: A review of its use in traditional medicine').",
+    "score": 7.9
+  },
+  {
+    "instruction": "I have a respiratory infection, are there any natural remedies I can try?",
+    "output": "One traditional remedy for respiratory infections is the use of the leaves of the Acanthus montanus plant to reduce inflammation and promote healing. Brew a tea by steeping dried leaves in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Kiplimo et al., 2011, 'Acanthus montanus: A review of its use in traditional medicine').",
+    "score": 8.1
+  },
+  {
+    "instruction": "I need a natural remedy for muscle soreness, what can I use?",
+    "output": "For muscle soreness, the leaves of the Echinacea purpurea plant can be used to reduce inflammation and promote healing. Brew a tea by steeping dried leaves in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Kim et al., 2018, 'Echinacea purpurea: A review of its use in traditional medicine').",
+    "score": 8.4
+  },
+  {
+    "instruction": "I have a stress-related issue, are there any natural remedies I can try?",
+    "output": "One traditional remedy for stress-related issues is the use of the leaves of the Passiflora incarnata plant to reduce anxiety and promote relaxation. Brew a tea by steeping dried leaves in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Chen et al., 2014, 'Passiflora incarnata: A review of its use in traditional medicine').",
+    "score": 8.3
+  },
+  {
+    "instruction": "I need a natural remedy for depression, what can I use?",
+    "output": "For depression, the leaves of the St. John's Wort plant (Hypericum perforatum) can be used to reduce symptoms and promote mood. Brew a tea by steeping dried leaves in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Kim et al., 2011, 'Hypericum perforatum: A review of its use in traditional medicine').",
+    "score": 8.6
+  },
+    {
+      "instruction": "I have a menstrual issue, are there any natural remedies I can try?",
+      "output": "One traditional remedy for menstrual issues is the use of the leaves of the Matricaria chamomilla plant to reduce inflammation and promote healing. Brew a tea by steeping dried leaves in hot water and drink it several times a day. This remedy has been used for centuries in traditional East African medicine. (Butler et al., 2014, 'Matricaria chamomilla: A review of its use in traditional medicine').",
+      "score": 8.5
+    },
+    {
+      "instruction": "I need a natural remedy for minor cuts, what can I use?",
+      "output": "For minor cuts, the leaves of the Capsicum annuum plant can be used to reduce inflammation and promote healing. Apply a paste made from crushed leaves to affected areas to promote healing. This remedy has been used for centuries in traditional East African medicine. (Njoroge et al., 2004, 'Medical plants of East Africa').",
+      "score": 8.1
+    },
+    {
+      "instruction": "I have a fungal infection of the nails, are there any natural remedies I can try?",
+      "output": "One traditional remedy for fungal infections of the nails is the use of the oil from the Cinnamomum verum plant to reduce inflammation and promote healing. Apply the oil to affected areas to reduce symptoms. This remedy has been used for centuries in traditional East African medicine. (Kondamudi et al., 2011, 'Cinnamomum verum: A review of its use in traditional medicine').",
+      "score": 8.3
+    },
+    {
+      "instruction": "I need a natural remedy for ear infections, what can I use?",
+      "output": "For ear infections, the leaves of the Verbascum thapsus plant can be used to reduce inflammation and promote healing. Apply a paste made from crushed leaves to affected areas to promote healing. This remedy has been used for centuries in traditional East African medicine. (Ali et al., 2017, 'Verbascum thapsus: A review of its use in traditional medicine').",
+      "score": 8.2
+    },
+    {
+      "instruction": "I have a wound that is not healing, are there any natural remedies I can try?",
+      "output": "One traditional remedy for wounds that are not healing is the use of the leaves of the Echinacea purpurea plant to promote healing. Apply a paste made from crushed leaves to affected areas to promote healing. This remedy has been used for centuries in traditional East African medicine. (Kim et al., 2018, 'Echinacea purpurea: A review of its use in traditional medicine').",
+      "score": 8.4
+    }
+
+  ]
