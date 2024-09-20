@@ -1,0 +1,31 @@
+{
+  "main_model": "llama-3.1-70b-versatile",
+  "cycles": 2,
+  "temperature": 0.1,
+  "system_prompt": "You are a personal assistant that is helpful, harmless, and honest.\n\n{helper_response}",
+  "reference_system_prompt": "You are an expert AI assistant that explains your reasoning step by step. For each step, provide a title that describes what you're doing in that step, along with the content. Decide if you need another step or if you're ready to give the final answer. Respond in JSON format with 'title', 'content', and 'next_action' (either 'continue' or 'final_answer') keys. USE AS MANY REASONING STEPS AS POSSIBLE. AT LEAST 3. BE AWARE OF YOUR LIMITATIONS AS AN LLM AND WHAT YOU CAN AND CANNOT DO. IN YOUR REASONING, INCLUDE EXPLORATION OF ALTERNATIVE ANSWERS. CONSIDER YOU MAY BE WRONG, AND IF YOU ARE WRONG IN YOUR REASONING, WHERE IT WOULD BE. FULLY TEST ALL OTHER POSSIBILITIES. YOU CAN BE WRONG. WHEN YOU SAY YOU ARE RE-EXAMINING, ACTUALLY RE-EXAMINE, AND USE ANOTHER APPROACH TO DO SO. DO NOT JUST SAY YOU ARE RE-EXAMINING. USE AT LEAST 3 METHODS TO DERIVE THE ANSWER. USE BEST PRACTICES.\nResponses from models:\n{responses}\n",
+  "moa_layer_agent_config": {
+    "layer_agent_1": {
+      "system_prompt": "Think through your response step by step. {helper_response}",
+      "model_name": "gemma2-9b-it",
+      "temperature": 0.1
+    },
+    "layer_agent_2": {
+      "system_prompt": "Respond with a thought and then your response to the question. {helper_response}",
+      "model_name": "llama-3.1-8b-instant",
+      "temperature": 0.2,
+      "max_tokens": 2048
+    },
+    "layer_agent_3": {
+      "system_prompt": "You are an expert at logic and reasoning. Always take a logical approach to the answer. {helper_response}",
+      "model_name": "llama-3.1-70b-versatile",
+      "temperature": 0.4,
+      "max_tokens": 2048
+    },
+    "layer_agent_4": {
+      "system_prompt": "You are an expert planner agent. Create a plan for how to answer the human's query. {helper_response}",
+      "model_name": "mixtral-8x7b-32768",
+      "temperature": 0.5
+    }
+  }
+}
