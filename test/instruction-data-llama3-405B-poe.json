@@ -13,7 +13,7 @@
     "score": 8.5},
     { "instruction": "I have a headache, what plant-based remedy can I use to relieve the pain?", 
     "output": "The leaves of the Ocimum suave plant have analgesic properties that can help relieve headaches. Crush the leaves and mix with water to create a paste, then apply to the forehead. A study published in the Journal of Ethnopharmacology found that Ocimum suave extracts reduced pain in mice (5). Text credit: 'Medical Plants of East Africa' by Najma et al.", 
-    "score": 8.5/10},
+    "score": 8.5},
     { "instruction": "I have a skin rash, what plant-based remedy can I use to soothe the itching?",
      "output": "The leaves of the Solanum incanum plant have anti-inflammatory properties that can help soothe skin rashes. Boil the leaves in water, let it cool, and apply the solution to the affected area. A study published in the Journal of Ethnopharmacology found that Solanum incanum extracts inhibited the growth of Staphylococcus aureus, a common cause of skin rashes (6). Text credit: 'Traditional Medicine in East Africa' by Hassan et al.", 
     "score": 8},
