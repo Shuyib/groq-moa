@@ -47,4 +47,5 @@ Prompt "Come up with question and answer pairs to test an LLM on various topics 
 Get more questions here: Rosalind.info
 
 Credit:    
-Prompt edits- G1 https://github.com/bklieger-groq/g1    
+Prompt edits - G1 https://github.com/bklieger-groq/g1    
+Ideas about data generation - https://github.com/rasbt/LLMs-from-scratch
