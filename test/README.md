@@ -44,7 +44,7 @@ Prompt "Come up with question and answer pairs to test an LLM on various topics 
 | Bioinformatics | What is the name of the process where the genetic code in DNA is used to direct the synthesis of proteins? | Transcription and Translation | |
 | Bioinformatics | What is the name of the process where a DNA molecule is copied to produce an identical copy? | DNA Replication | |
 
-Get more questions here: Rosalind.info
+Get more questions here: [Rosalind.info](https://rosalind.info) & [Problems](https://rosalind.info/problems/list-view/)    
 
 Credit:    
 Prompt edits - G1 https://github.com/bklieger-groq/g1    
