@@ -48,4 +48,5 @@ Get more questions here: [Rosalind.info](https://rosalind.info) & [Problems](htt
 
 Credit:    
 Prompt edits - G1 https://github.com/bklieger-groq/g1    
-Ideas about data generation - https://github.com/rasbt/LLMs-from-scratch
+Ideas about data generation - https://github.com/rasbt/LLMs-from-scratch   
+Prompt edit suggestions - https://gist.github.com/philschmid/3a0ecc9e45763716f4dd9c36b6445fca   
